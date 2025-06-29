@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "iRVzu2HKf+0=",
+  "success": true,
+  "projectFilePath": "/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.API/EnterpriseCrudApp.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/billkishore/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/fluentvalidation/12.0.0/fluentvalidation.12.0.0.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/fluentvalidation.aspnetcore/11.3.1/fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/fluentvalidation.dependencyinjectionextensions/12.0.0/fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.entityframeworkcore/9.0.6/microsoft.entityframeworkcore.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.6/microsoft.entityframeworkcore.abstractions.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.6/microsoft.entityframeworkcore.analyzers.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.entityframeworkcore.inmemory/9.0.6/microsoft.entityframeworkcore.inmemory.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.entityframeworkcore.relational/9.0.6/microsoft.entityframeworkcore.relational.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.apidescription.server/8.0.0/microsoft.extensions.apidescription.server.8.0.0.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.6/microsoft.extensions.caching.abstractions.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.caching.memory/9.0.6/microsoft.extensions.caching.memory.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.6/microsoft.extensions.configuration.abstractions.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.6/microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.6/microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.diagnostics.abstractions/9.0.6/microsoft.extensions.diagnostics.abstractions.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/9.0.6/microsoft.extensions.diagnostics.healthchecks.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.abstractions/9.0.6/microsoft.extensions.diagnostics.healthchecks.abstractions.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.entityframeworkcore/9.0.6/microsoft.extensions.diagnostics.healthchecks.entityframeworkcore.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.6/microsoft.extensions.fileproviders.abstractions.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.hosting.abstractions/9.0.6/microsoft.extensions.hosting.abstractions.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.logging/9.0.6/microsoft.extensions.logging.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.6/microsoft.extensions.logging.abstractions.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.options/9.0.6/microsoft.extensions.options.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.extensions.primitives/9.0.6/microsoft.extensions.primitives.9.0.6.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/swashbuckle.aspnetcore/9.0.1/swashbuckle.aspnetcore.9.0.1.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/swashbuckle.aspnetcore.swagger/9.0.1/swashbuckle.aspnetcore.swagger.9.0.1.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/swashbuckle.aspnetcore.swaggergen/9.0.1/swashbuckle.aspnetcore.swaggergen.9.0.1.nupkg.sha512",
+    "/Users/billkishore/.nuget/packages/swashbuckle.aspnetcore.swaggerui/9.0.1/swashbuckle.aspnetcore.swaggerui.9.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 14.0.0 was resolved.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

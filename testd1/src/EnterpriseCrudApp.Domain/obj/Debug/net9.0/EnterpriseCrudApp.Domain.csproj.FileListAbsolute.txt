@@ -1,0 +1,11 @@
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/bin/Debug/net9.0/EnterpriseCrudApp.Domain.deps.json
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/bin/Debug/net9.0/EnterpriseCrudApp.Domain.dll
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/bin/Debug/net9.0/EnterpriseCrudApp.Domain.pdb
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/obj/Debug/net9.0/EnterpriseCrudApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/obj/Debug/net9.0/EnterpriseCrudApp.Domain.AssemblyInfoInputs.cache
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/obj/Debug/net9.0/EnterpriseCrudApp.Domain.AssemblyInfo.cs
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/obj/Debug/net9.0/EnterpriseCrudApp.Domain.csproj.CoreCompileInputs.cache
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/obj/Debug/net9.0/EnterpriseCrudApp.Domain.dll
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/obj/Debug/net9.0/refint/EnterpriseCrudApp.Domain.dll
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/obj/Debug/net9.0/EnterpriseCrudApp.Domain.pdb
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/obj/Debug/net9.0/ref/EnterpriseCrudApp.Domain.dll

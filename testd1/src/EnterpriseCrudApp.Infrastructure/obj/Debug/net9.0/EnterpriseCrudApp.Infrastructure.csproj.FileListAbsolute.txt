@@ -1,0 +1,17 @@
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/bin/Debug/net9.0/EnterpriseCrudApp.Infrastructure.deps.json
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/bin/Debug/net9.0/EnterpriseCrudApp.Infrastructure.runtimeconfig.json
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/bin/Debug/net9.0/EnterpriseCrudApp.Infrastructure.dll
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/bin/Debug/net9.0/EnterpriseCrudApp.Infrastructure.pdb
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/bin/Debug/net9.0/EnterpriseCrudApp.Domain.dll
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/bin/Debug/net9.0/EnterpriseCrudApp.Domain.pdb
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/obj/Debug/net9.0/EnterpriseCrudApp.Infrastructure.csproj.AssemblyReference.cache
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/obj/Debug/net9.0/EnterpriseCrudApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/obj/Debug/net9.0/EnterpriseCrudApp.Infrastructure.AssemblyInfoInputs.cache
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/obj/Debug/net9.0/EnterpriseCrudApp.Infrastructure.AssemblyInfo.cs
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/obj/Debug/net9.0/EnterpriseCrudApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/obj/Debug/net9.0/Enterpri.B3DE4C51.Up2Date
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/obj/Debug/net9.0/EnterpriseCrudApp.Infrastructure.dll
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/obj/Debug/net9.0/refint/EnterpriseCrudApp.Infrastructure.dll
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/obj/Debug/net9.0/EnterpriseCrudApp.Infrastructure.pdb
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/obj/Debug/net9.0/EnterpriseCrudApp.Infrastructure.genruntimeconfig.cache
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Infrastructure/obj/Debug/net9.0/ref/EnterpriseCrudApp.Infrastructure.dll

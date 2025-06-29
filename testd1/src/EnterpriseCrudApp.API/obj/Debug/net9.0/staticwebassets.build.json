@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "b2PBKG6TnDNvJ6xcQsQNi0BctlWedZ/l+xNmGDg1WNY=",
+  "Source": "EnterpriseCrudApp.API",
+  "BasePath": "_content/EnterpriseCrudApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

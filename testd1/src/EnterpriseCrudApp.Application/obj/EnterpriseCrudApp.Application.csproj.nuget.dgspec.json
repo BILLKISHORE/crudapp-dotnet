@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/EnterpriseCrudApp.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/EnterpriseCrudApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/EnterpriseCrudApp.Application.csproj",
+        "projectName": "EnterpriseCrudApp.Application",
+        "projectPath": "/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/EnterpriseCrudApp.Application.csproj",
+        "packagesPath": "/Users/billkishore/.nuget/packages/",
+        "outputPath": "/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/billkishore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/opt/homebrew/Cellar/dotnet/9.0.6/libexec/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/EnterpriseCrudApp.Domain.csproj": {
+                "projectPath": "/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/EnterpriseCrudApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.6/libexec/sdk/9.0.107/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/EnterpriseCrudApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/EnterpriseCrudApp.Domain.csproj",
+        "projectName": "EnterpriseCrudApp.Domain",
+        "projectPath": "/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/EnterpriseCrudApp.Domain.csproj",
+        "packagesPath": "/Users/billkishore/.nuget/packages/",
+        "outputPath": "/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/billkishore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/opt/homebrew/Cellar/dotnet/9.0.6/libexec/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.6/libexec/sdk/9.0.107/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

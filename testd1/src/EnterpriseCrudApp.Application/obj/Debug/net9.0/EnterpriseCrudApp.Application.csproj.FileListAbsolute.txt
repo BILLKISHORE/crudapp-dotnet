@@ -1,0 +1,15 @@
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/bin/Debug/net9.0/EnterpriseCrudApp.Application.deps.json
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/bin/Debug/net9.0/EnterpriseCrudApp.Application.dll
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/bin/Debug/net9.0/EnterpriseCrudApp.Application.pdb
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/bin/Debug/net9.0/EnterpriseCrudApp.Domain.dll
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/bin/Debug/net9.0/EnterpriseCrudApp.Domain.pdb
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/obj/Debug/net9.0/EnterpriseCrudApp.Application.csproj.AssemblyReference.cache
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/obj/Debug/net9.0/EnterpriseCrudApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/obj/Debug/net9.0/EnterpriseCrudApp.Application.AssemblyInfoInputs.cache
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/obj/Debug/net9.0/EnterpriseCrudApp.Application.AssemblyInfo.cs
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/obj/Debug/net9.0/EnterpriseCrudApp.Application.csproj.CoreCompileInputs.cache
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/obj/Debug/net9.0/Enterpri.5C99F4DA.Up2Date
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/obj/Debug/net9.0/EnterpriseCrudApp.Application.dll
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/obj/Debug/net9.0/refint/EnterpriseCrudApp.Application.dll
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/obj/Debug/net9.0/EnterpriseCrudApp.Application.pdb
+/Users/billkishore/code-personal/testd1/src/EnterpriseCrudApp.Application/obj/Debug/net9.0/ref/EnterpriseCrudApp.Application.dll
